@@ -1,6 +1,6 @@
 Hello World 👋
 
-My name is Rituraj. I am currently pursuing my B.E in Information Science and Engineering(ISE) from National Institute of Engineering in Mysore.
+My name is Rituraj. I am currently pursuing my B.E in Information Science and Engineering(ISE) from The National Institute of Engineering in Mysore.
 
     🌱 I’m currently learning Machine Learning and Cloud Computing.
 
