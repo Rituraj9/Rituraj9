@@ -2,6 +2,8 @@ Hello World 👋
 
 My name is Rituraj. I am currently pursuing my B.E in Information Science and Engineering(ISE) from The National Institute of Engineering in Mysore.
 
+Reach me : https://www.linkedin.com/in/ritu-raj-293a4b16a/
+
     🌱 I’m currently learning Machine Learning and Cloud Computing.
 
     🤔 I’m looking for help with applying Programming Concepts to Real World Projects.
